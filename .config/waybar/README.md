@@ -1,3 +1,0 @@
-# ludv's dotfiles
-
-YO
