@@ -1,0 +1,6 @@
+[submodule ".config/alacritty/alacritty-theme"]
+	path = .config/alacritty/alacritty-theme
+	url = https://github.com/alacritty/alacritty-theme
+[submodule ".config/tmux/tmux-session-wizard"]
+	path = .config/tmux/tmux-session-wizard
+	url = https://github.com/27medkamal/tmux-session-wizard
